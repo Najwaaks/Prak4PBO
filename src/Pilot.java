@@ -10,6 +10,6 @@ public class Pilot { // kelas Pilot
     }
 
     public void maskapai(Maskapai maskapai) { // asosiasi
-        System.out.println("Pilot " + nama + " penerbangan " + maskapai.getNama());
+        System.out.println("Pilot " + nama + " penerbangan dengan " + maskapai.getNama());
     }
 }

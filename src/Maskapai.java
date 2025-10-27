@@ -1,4 +1,3 @@
-
 public class Maskapai { // kelas Maskapai
     private String nama;
 
